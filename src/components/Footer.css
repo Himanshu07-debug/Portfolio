@@ -1,0 +1,44 @@
+.footer{
+    font-size: 0.8rem;
+    text-align: center;
+    background: linear-gradient(90deg, #3D3072 0%, #423477 100%);
+    padding: 0.8rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    gap: 3rem;
+}
+
+.f-icon:hover{
+    cursor: pointer;
+}
+
+h2{
+    font-weight: 400;
+}
+
+
+@media (max-width: 768px){
+
+    .footer{
+        font-size: 0.4rem;
+        text-align: center;
+        padding: 0.4rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .footer-icon{
+        font-size : 0.9rem;
+        gap: 1.5rem;
+    }
+
+}
