@@ -14,7 +14,7 @@ const Hero = () => {
                     <p>I enjoy combining my skills in competitive programming and software development to tackle complex problems.</p>
                 </div>
                 <div className="button-holder">
-                    <a href="https://drive.google.com/file/d/13ZsiF_P7-a2ReX0Q8zdM2SqldnN5AdXM/view?usp=sharing" rel="noreferrer" target="_blank">
+                    <a href="https://drive.google.com/file/d/1_FedkTjXY23AzyldwuzjE946hIoOI0se/view?usp=sharing" rel="noreferrer" target="_blank">
                         <button>Resume</button>
                     </a>
                     <a href="https://linktr.ee/t_himanshu_sharma" target="_blank" rel="noreferrer">
